@@ -23,7 +23,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HN_submissions.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HN_submissions.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/API/HN_submissions.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
@@ -31,6 +31,15 @@
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Info.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Info.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="33" selection-start-column="33" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -89,6 +98,7 @@
         <option value="$PROJECT_DIR$/API/bar_description.py" />
         <option value="$PROJECT_DIR$/API/python_repositories.py" />
         <option value="$PROJECT_DIR$/API/HN_submissions.py" />
+        <option value="$PROJECT_DIR$/Info.txt" />
       </list>
     </option>
   </component>
@@ -110,11 +120,6 @@
             <path>
               <item name="Data_Vizualisation" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data_Vizualisation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Data_Vizualisation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data_Vizualisation" type="462c0819:PsiDirectoryNode" />
-              <item name="API" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -269,6 +274,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1213" height="782" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17489177" />
       <window_info anchor="bottom" id="TODO" order="5" />
@@ -316,9 +322,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Random_walk_01.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Random_walk.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -595,6 +598,13 @@
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
         </state>
       </provider>
     </entry>
