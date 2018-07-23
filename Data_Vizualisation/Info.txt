@@ -1,1 +1,2 @@
 Python Crash Course - Project 2: Data Visualization
+Python Crash Course - Project 2: Data Visualization

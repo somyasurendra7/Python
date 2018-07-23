@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../binge_watch/.idea/binge_watch.iml" filepath="$PROJECT_DIR$/../../binge_watch/.idea/binge_watch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learning_logs.iml" filepath="$PROJECT_DIR$/.idea/learning_logs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../text_editor/.idea/text_editor.iml" filepath="$PROJECT_DIR$/../text_editor/.idea/text_editor.iml" />
+    </modules>
+  </component>
+</project>

@@ -14,7 +14,7 @@
       <file leaf-file-name="python_repositories.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/API/python_repositories.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="187">
               <caret line="13" column="12" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="12" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -23,11 +23,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HN_submissions.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HN_submissions.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/API/HN_submissions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="323">
+              <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -35,19 +35,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Info.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Info.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="33" selection-start-column="33" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="bar_description.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/API/bar_description.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="255">
               <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
@@ -113,7 +104,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,11 +115,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://S:/Personal_wp/My_Code/Data_Vizualisation/Population/population_data.json" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../learning_logs" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -274,16 +265,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1213" height="782" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17489177" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17835498" />
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="right" id="R Graphics" order="4" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.5004329" side_tool="true" weight="0.32721713" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.32868218" />
-      <window_info anchor="right" id="Run" order="5" visible="true" weight="0.3212121" />
+      <window_info anchor="right" id="Run" order="5" weight="0.3212121" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4995671" weight="0.32721713" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -297,9 +287,9 @@
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27792206" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -307,15 +297,15 @@
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="right" id="R Graphics" order="4" />
       <window_info active="true" anchor="right" id="Run" order="5" visible="true" weight="0.32813853" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="R Packages" order="3" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.32868218" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.39908257" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4995671" visible="true" weight="0.32721713" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.5004329" side_tool="true" visible="true" weight="0.32721713" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Python Console" order="8" weight="0.32868218" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -570,7 +560,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/API/bar_description.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="255">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
@@ -583,18 +573,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/API/python_repositories.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="187">
           <caret line="13" column="12" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/API/HN_submissions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -603,8 +583,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Info.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="33" selection-start-column="33" selection-end-column="33" />
+        <state relative-caret-position="17">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API/HN_submissions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
