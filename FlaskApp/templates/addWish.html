@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Binged List App</title>
+		<link href="https://getbootstrap.com/docs/4.1/dist/css/bootstrap.min.css" rel="stylesheet">
+		<link href="https://getbootstrap.com/docs/4.1/examples/jumbotron/jumbotron.css" rel="stylesheet">
+		<script src="../static/js/jquery-3.3.1.js"></script>
+	</head>
+
+	<body>
+		<div class="container">
+			<div class="header">
+				<nav>
+					<ul class="nav nav-pills pull-right">
+						<li role="presentation" class="nav-item-active"><a class="nav-link" href="#">Add Series</a>
+						</li>
+						<li role="presentation" class="nav-item"><a class="nav-link" href="/logout">Logout</a>
+						</li>
+					</ul>
+				</nav>
+				<h3 class="text-muted">Bing watch App</h3>
+			</div>
+			<section>
+				<form class="form-horizontal" method="post" action="/addWish">
+					<fieldset>
+						<legend>Create Your Binged List</legend>
+						<div class="form=group">
+							<label class="col-md-4 control-label" for="txtTitle">Title</label>
+							<div class="col-md-4">
+								<input id="txtTitle" name="inputTitle" type="text" placeholder="Title" class="form-control input-md">
+							</div>
+							<div class="form-group">
+								<label class="col-md4 control-label" for="txtPost">Post</label>
+								<div class="col-md-4">
+									<textarea class="form-control" id-"txtPost" name="inputDescription"></textarea>
+								</div>
+							</div>
+							</div>
+
+							<div class="form-group">
+								<label class="col-md4 control-label" for="singlebutton"></label>
+								<div class="col-md-4">
+									<input id="singlebutton" name="singlebutton" class="btn btn-primary" type="submit" value="Publish"/>
+								</div>
+							</div>
+
+					</fieldset>
+				</form>
+
+				<section>
+					<footer class="footer">
+						<p>&copy; Company 2018</p>
+					</footer>
+					
+		</div>
+	</body>
+</html>
+
+
+
